@@ -6,7 +6,10 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### COMOP541: Deep Learning
 - **Description**: This course delves into the fundamentals of deep learning, with a primary focus on the supervised approach. Some exploration of unsupervised methods is also covered, albeit to a lesser extent.
-- **Topics: ANN, CNN, RNN, Transformers 
+- **Topics: ANN, CNN, RNN, Transformers
+
+  ![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/a3c644fb-39ec-4e54-bc3f-e4a0793ba99b)
+
 
 ### ELEC547: Biomedical Signal Processing
 - **Description**: In this course, various types of biomedical sensors and their signals are studied, including ECG, EEG, EMG, IMU, among others. The curriculum covers features-based and learning-based techniques, including statistical methods like machine learning.
@@ -16,6 +19,7 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### COMP548: Medical Imaging
 - **Description**: This course covers basic image filtering techniques, including segmentation and clustering, using non-learning-based approaches. It also explores learning-based approaches, including those based on deep learning.
+![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/ada12b3b-9164-4f10-8bfd-6f42e6e41499)
 
 ### MECH511: Mechanical Vibration
 - **Description**: This course examines single and multi-degree-of-freedom systems, as well as continuous body vibrations, with a specific focus on beams.
