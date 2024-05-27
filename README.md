@@ -6,6 +6,7 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### COMOP541: Deep Learning
 - **Description**: This course delves into the fundamentals of deep learning, with a primary focus on the supervised approach. Some exploration of unsupervised methods is also covered, albeit to a lesser extent.
+- **Topics: ANN, CNN, RNN, Transformers 
 
 ### ELEC547: Biomedical Signal Processing
 - **Description**: In this course, various types of biomedical sensors and their signals are studied, including ECG, EEG, EMG, IMU, among others. The curriculum covers features-based and learning-based techniques, including statistical methods like machine learning.
