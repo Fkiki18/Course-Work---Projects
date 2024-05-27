@@ -23,6 +23,7 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### MECH511: Mechanical Vibration
 - **Description**: This course examines single and multi-degree-of-freedom systems, as well as continuous body vibrations, with a specific focus on beams.
+![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/13745d94-39ec-461d-9557-b04b2269eaec)
 
 ### MECH525: Mechanics of Microsensors
 - **Description**: This course focuses on interaction of MEMS and NEMS devices and their analysis using FEA tools such as Comsol Multiphysics
