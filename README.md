@@ -6,7 +6,7 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### COMOP541: Deep Learning
 - **Description**: This course delves into the fundamentals of deep learning, with a primary focus on the supervised approach. Some exploration of unsupervised methods is also covered, albeit to a lesser extent.
-- **Topics: ANN, CNN, RNN, Transformers
+- **Topics**: ANN, CNN, RNN, Transformers
 
   ![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/a3c644fb-39ec-4e54-bc3f-e4a0793ba99b)
 
