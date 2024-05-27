@@ -10,6 +10,9 @@ This repository contains final reports from graduate-level coursework projects i
 
 ### ELEC547: Biomedical Signal Processing
 - **Description**: In this course, various types of biomedical sensors and their signals are studied, including ECG, EEG, EMG, IMU, among others. The curriculum covers features-based and learning-based techniques, including statistical methods like machine learning.
+  
+- ![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/357e7cd6-5259-4092-9089-a87f20a997e1)
+
 
 ### COMP548: Medical Imaging
 - **Description**: This course covers basic image filtering techniques, including segmentation and clustering, using non-learning-based approaches. It also explores learning-based approaches, including those based on deep learning.
