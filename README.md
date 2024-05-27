@@ -1,9 +1,17 @@
-This repository contains final reports from Graduate Level (advanced) course work projects. 
-The courses include Computer, Mechanical, and Electrical Engineering courses. 
-The reports are written in a research paper format including reference to literature papers. 
-Some of projects were done indvidually and others were done in a group.
+## Repository Description
 
-COMOP541 is a Deep-learning course. We study in it the foundation of deep learning and focus mainly on the supervised approach and we explore unsupervised also but to a lesser extent.
-ELEC547 is Biomedical Signal Processing course. We study different types of biomedical sensors and their signals including ECG, EEG, EMG, IMU, etc. We explore features-based and learning-based techniques including statistical ones like machine learning  
-COMP548 is Medical Imaging. We discuss basic image filtering techniques including segmentation and clustering using non-learning-based approaches. Then we try learning-based approaches including deep learning approaches.
-MECH511 is a Mechanical vibration course. We study single and multi degrees of freedom and explore continuous body vibrations focusing on beams.
+This repository contains final reports from graduate-level coursework projects in Computer, Mechanical, and Electrical Engineering disciplines. The reports are formatted as research papers, including references to scholarly literature. Projects were completed either individually or in groups.
+
+## Courses Overview
+
+### COMOP541: Deep Learning
+- **Description**: This course delves into the fundamentals of deep learning, with a primary focus on the supervised approach. Some exploration of unsupervised methods is also covered, albeit to a lesser extent.
+
+### ELEC547: Biomedical Signal Processing
+- **Description**: In this course, various types of biomedical sensors and their signals are studied, including ECG, EEG, EMG, IMU, among others. The curriculum covers features-based and learning-based techniques, including statistical methods like machine learning.
+
+### COMP548: Medical Imaging
+- **Description**: This course covers basic image filtering techniques, including segmentation and clustering, using non-learning-based approaches. It also explores learning-based approaches, including those based on deep learning.
+
+### MECH511: Mechanical Vibration
+- **Description**: This course examines single and multi-degree-of-freedom systems, as well as continuous body vibrations, with a specific focus on beams.
