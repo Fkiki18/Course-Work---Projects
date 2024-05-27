@@ -8,7 +8,8 @@ This repository contains final reports from graduate-level coursework projects i
 - **Description**: This course delves into the fundamentals of deep learning, with a primary focus on the supervised approach. Some exploration of unsupervised methods is also covered, albeit to a lesser extent.
 - **Topics**: ANN, CNN, RNN, Transformers
 
-  ![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/a3c644fb-39ec-4e54-bc3f-e4a0793ba99b)
+![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/a3c644fb-39ec-4e54-bc3f-e4a0793ba99b)
+![image](https://github.com/Fkiki18/Course-Work---Projects/assets/49412279/29e84c53-aee8-4010-a93a-d01beab92354)
 
 
 ### ELEC547: Biomedical Signal Processing
